@@ -1,0 +1,8 @@
+colors = ["red", "blue", "green", "yellow"]
+print("Original List = ",colors)
+
+colors [1]= "purple"
+print("Change blue to purple using indexing = ",colors)
+
+colors [3] = "black"
+print("Change the last item to black. = ",colors)

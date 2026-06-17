@@ -1,0 +1,6 @@
+str=(input("Enter a String = "))
+print(str)
+print("First Character =",str [0])
+print("Last Character =",str[-1])
+print("3rd Character from the Start =",str[2])
+print("2nd Character from the end =",str[-2])
